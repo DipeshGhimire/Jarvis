@@ -12,7 +12,7 @@ Jarvis is designed with Artificial Intelligence (A.I) in both software and hardw
                               Jarvis License
                        Version 0.1, January 2017
                     https://dipeshghimire.github.io/Jarvis/
-TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
 
 Definitions.
 
